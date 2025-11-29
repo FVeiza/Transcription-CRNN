@@ -9,5 +9,4 @@
   <ol>
     <li>https://youtu.be/vEzrM9CZ82U</li>
   </ol>
-  <li>Perform new predictions</li>
 </ol>
